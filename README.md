@@ -1,5 +1,5 @@
 # Eduvox 🤖🗣️📽️
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ghovkg02/EduVox/blob/main/Notebook/AutoTalker.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ghovkg02/EduVox/blob/main/Notebook/EduVox.ipynb)
 
 
 ## Example
