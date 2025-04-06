@@ -1,11 +1,6 @@
-# AutoTalker 🤖🗣️📽️
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pmking27/AutoTalker/blob/main/Notebook/AutoTalker.ipynb)
+# Eduvox 🤖🗣️📽️
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ghovkg02/EduVox/blob/main/Notebook/AutoTalker.ipynb)
 
-## Project Demo Video
-
-Check out the demo video to see AutoTalker in action!
-
-https://github.com/Pmking27/AutoTalker/assets/97112558/59213b80-2613-4999-9e69-9e93d4fda682
 
 ## Example
 
@@ -17,9 +12,6 @@ https://github.com/Pmking27/AutoTalker/assets/97112558/59213b80-2613-4999-9e69-9
 
  <img src='./examples/image4.jpg' width='380'>
 
-*Output Video*
-
-[https://github.com/Pmking27/AI-Video-generation-Using-Palm-Api-and-SadTalker/assets/97112558/ee86baae-bd2c-4a67-80c2-3768d6f571d6](https://github.com/Pmking27/AutoTalker/assets/97112558/b8a35e28-14ad-42e6-8a7c-e9e28d9bfda5)
 
 ## Project Description
 
@@ -67,11 +59,11 @@ As the usage of TAP's chatbot continues to grow, the project faces challenges an
 
 ## Approach and Solution
 
-My approach to addressing the challenges faced by TAP involves leveraging cutting-edge technologies, including natural language processing (NLP), artificial intelligence (AI), and machine learning (ML), to develop AutoTalker—a component of TAP aimed at enhancing the educational experience for students.
+My approach to addressing the challenges faced by TAP involves leveraging cutting-edge technologies, including natural language processing (NLP), artificial intelligence (AI), and machine learning (ML), to develop Eduvox—a component of TAP aimed at enhancing the educational experience for students.
 
-AutoTalker utilizes advanced AI models and libraries, such as Suno Bark TTS for text-to-speech conversion, Google's generative AI Python SDK (Gemini Pro) for text generation, and SadTalker for lip-syncing audio with facial movements in videos. By integrating these technologies, AutoTalker enables the creation of engaging and informative video content from text prompts and images.
+Eduvox utilizes advanced AI models and libraries, such as Suno Bark TTS for text-to-speech conversion, Google's generative AI Python SDK (Gemini Pro) for text generation, and SadTalker for lip-syncing audio with facial movements in videos. By integrating these technologies, Eduvox enables the creation of engaging and informative video content from text prompts and images.
 
-Furthermore, the project incorporates features like personalized learning, content creation assistance, and language support to cater to diverse learning needs and preferences. By harnessing the power of AI, AutoTalker empowers educators and students alike to access high-quality educational content tailored to their individual requirements, thereby fostering the development of essential 21st-century skills.
+Furthermore, the project incorporates features like personalized learning, content creation assistance, and language support to cater to diverse learning needs and preferences. By harnessing the power of AI, Eduvox empowers educators and students alike to access high-quality educational content tailored to their individual requirements, thereby fostering the development of essential 21st-century skills.
 
 Through this innovative solution, TAP aims to revolutionize the education landscape, bridging the gap in access to quality learning resources and empowering students from underserved communities to realize their full potential in the digital age.
 ## Table of Contents
@@ -87,7 +79,7 @@ Through this innovative solution, TAP aims to revolutionize the education landsc
 
 ## About
 
-The project focuses on leveraging technology to create new courses, personalize existing ones, and enhance the assessment process, ultimately contributing to the development of 21st-century skills in students. AutoTalker, a component of TAP, showcases the capabilities of AI in generating lip-synced videos from text prompts and images, enhancing the overall educational experience for students. 
+The project focuses on leveraging technology to create new courses, personalize existing ones, and enhance the assessment process, ultimately contributing to the development of 21st-century skills in students. Eduvox, a component of TAP, showcases the capabilities of AI in generating lip-synced videos from text prompts and images, enhancing the overall educational experience for students. 
 
 It utilizes several libraries, including:
 
